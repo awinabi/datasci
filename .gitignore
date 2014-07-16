@@ -1,0 +1,8 @@
+.env
+*~
+twitterstream.py
+*.pyc
+*.egg-info/
+.installed.cfg
+*.egg
+
